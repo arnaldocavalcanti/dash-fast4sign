@@ -1,0 +1,459 @@
+,Nome,Email,CNPJ,Preço,Situação,Atrasado,Arquivos,Usuários,Estado,Cidade,Data de Adesão,Data de Carência,Data de Cancelamento,Armazenamento
+0,W A M Serviços Contábeis Ltda,serconcontabil@uol.com.br,10.996.910/0001-20,0.0,TESTE,0,1,0,SP,Bauru,,2022-04-21 15:24:18,,0.0
+1,gpj imobiliária,guilherme@gpjimobiliaria.com.br,44.607.426/0001-83,49.9,ATIVA,0,0,0,MG,Nova Serrana,2022-04-07 13:26:48,2022-04-21 13:24:42,,0.0
+2,Primor Vistorias Imobiliárias,administrativo@primorvistorias.com.br,39.621.308/0001-90,0.0,TESTE,0,1,0,RJ,Rio de Janeiro,,2022-04-20 15:18:07,,0.0
+3,SGW CONSTRUCOES E ADMINISTRACOES LTDA,geovania.r@hotmail.com,44.573.162/0001-94,0.0,TESTE,0,4,0,SP,Bauru,,2022-04-19 10:51:04,,0.0
+4,FV IMÓVEIS,administrativo@imoveisfv.com,25.101.659/0001-65,49.9,ATIVA,0,2,2,SC,Balneário Camboriú,2022-04-04 16:24:21,2022-04-18 15:56:31,,0.0
+5,J M serviços de hotelaria ,ocantodofrances@gmail.com,08.587.480/0001-40,0.0,TESTE,0,0,0,,,,2022-04-18 13:52:23,,0.0
+6,Alex Alexandre Quadros Fiuza,evorapk@gmail.com,593.708.230-34,79.9,ATIVA,0,0,0,,,2022-03-30 15:19:13,2022-04-14 19:30:14,,0.0
+7,TSV Transportes,candal@tsvtransportes.com.br,00.634.453/0001-01,0.0,TESTE,0,0,0,,,,2022-04-14 17:51:46,,0.0
+8,Business Administração de Ativos,ary@businessceara.com.br,08.645.058/0001-02,0.0,TESTE,0,1,0,CE,Fortaleza,,2022-04-14 14:40:31,,0.0
+9,ESTRELA COOPERATIVA DE TRANSPORTES LTDA,estrelacoop@gmail.com,11.142.552/0001-50,0.0,TESTE,0,0,0,,,,2022-04-13 11:21:43,,0.0
+10,TA GLOBAL COMERCIO E SERVIÇOS LTDA ,leandro@taglobal.com.br,29.415.267/0001-21,0.0,TESTE,0,0,0,,,,2022-04-13 08:13:29,,0.0
+11,Phanebecker & Ferreira Ltda.,pousadaalecrim@gmail.com,11.226.906/0001-45,0.0,GRATUITO,0,0,0,,,,2022-04-11 09:33:27,,0.0
+12,Block Imóveis Ltda,wallace@blockimoveis.com.br,26.475.689/0001-02,71.91,ATIVA,0,3,0,RJ,Rio de Janeiro,2022-04-01 15:14:42,2022-04-15 12:06:23,,0.0
+13,MFG Negócios Imobiliários Ltda,contato@mfgnegociosimobiliarios.com.br,23.288.664/0001-01,0.0,GRATUITO,0,3,0,,,,2022-04-08 10:57:03,,0.0
+14,Godoy Brasil,bruno@godoybrasil.com.br,40.111.451/0001-10,0.0,GRATUITO,0,0,0,,,,2022-04-07 22:27:49,,0.0
+15,Valetão Pneus Ltda,daniel@valetao.com.br,51.958.452/0001-11,0.0,GRATUITO,0,0,0,,,,2022-04-07 17:22:50,,0.0
+16,ingleses flat paradise,carlarollin@hotmail.com,21.468.880/0010-12,0.0,GRATUITO,0,0,0,,,,2022-04-06 11:57:50,,0.0
+17,IRACEMA EMPREENDIMENTOS TURISTICOS LTDA,comercial@plazasuites.com.br,01.435.103/0001-47,0.0,GRATUITO,0,0,0,,,,2022-04-06 11:27:07,,0.0
+18,HOTEL JANGADAS,diretoria@jangadasdacaponga.com.br,06.301.132/0013-0,0.0,GRATUITO,0,0,0,,,,2022-04-05 15:01:00,,0.0
+19,HOTEL JANGADAS,comercial@jangadasdacaponga.com.br,06.301.132/0001-30,0.0,GRATUITO,0,0,0,,,,2022-04-05 14:47:14,,0.0
+20,Master Hotéis,juliana.nogueira@masterhoteis.com.br,91.046.284/0006-17,0.0,GRATUITO,0,0,0,,,,2022-04-04 11:20:45,,0.0
+21,nbr hotelaria ltda,ggeral@stayinnhotel.com.br,12.380.818/0001-66,0.0,GRATUITO,0,0,0,,,,2022-03-31 12:10:40,,0.0
+22,E&R EXPRESS TRANSPORTES EIRELI,jricardo@erexpress.com.br,07.579.804/0001-36,0.0,GRATUITO,0,0,0,,,,2022-03-30 17:13:04,,0.0
+23,HOTEL PORTAL DOS VENTOS,reservas@hotelportaldosventos.com.br,01.457.955/0001-35,0.0,GRATUITO,0,0,0,PI,Parnaíba,,2022-03-30 10:49:53,,0.0
+24,Salvador Mar Hotel,reservas@salvadormarhotel.com.br,22.853.277/0001-08,0.0,GRATUITO,0,0,0,BA,Salvador,,2022-03-29 14:27:48,,0.0
+25,Morar Imobiliria Eireli,leandroteixeira01@outlook.com,097.131.337-73,49.9,ATIVA,0,3,0,AM,Manaus,2022-03-15 14:33:56,2022-03-28 18:02:32,,0.0
+26,Praia do Presídio Atlântico Hotel Eireli ,comercial@hoteldonana.com,33.855.223/0001-90,0.0,GRATUITO,0,0,0,,,,2022-03-26 09:39:11,,0.0
+27,Pousada D Areia Ltda.,valorizeeliane@terra.com.br,07.703.186/0001-94,0.0,GRATUITO,0,0,0,,,,2022-03-25 15:56:50,,0.0
+28,CATALANO&MACHADO SOLUÇÕES INDS.LTDA,marcos@catalanoemachado.com.br,12.984.887/0001-89,0.0,GRATUITO,0,0,0,,,,2022-03-25 09:39:46,,0.0
+29,Bigmassa Industria e Comércio Ltda,financeiro@bigmassa.com,04.551.368/0001-07,0.0,GRATUITO,0,0,0,,,,2022-03-25 08:23:06,,0.0
+30,HOTEL SERRANO DE MARTINS,serrano@hoteisredesabino.com.br,04.289.900/0001-51,0.0,GRATUITO,0,0,0,,,,2022-03-23 15:06:28,,0.0
+31,Hotel e Pousada Shantiniketan & Turismo Ltda ,gerente@hotelportodepaz.com.br,04.497.963/0001-01,0.0,GRATUITO,0,0,0,,,,2022-03-23 14:46:46,,0.0
+32,Faucz Transportes Eireli,priscyla@faucztransportes.com.br,35.018.178/0001-44,0.0,GRATUITO,0,0,0,,,,2022-03-23 13:06:50,,0.0
+33,Compacta Encomendas,claudia@compactaair.com.br,02.220.388/0001-61,0.0,GRATUITO,0,0,0,,,,2022-03-23 10:34:58,,0.0
+34,MaxxCasa Neg. Imobiliários Ltda ,novais@maxxcasa.com,14.128.739/0001-98,0.0,GRATUITO,0,7,0,SP,São Paulo,,2022-03-21 18:21:53,,0.0
+35,Exacto Imóveis Ltda,administrativo@exactoimoveis.com.br,22.961.776/0001-00,49.9,ATIVA,0,9,0,SP,Campinas,2022-03-07 14:33:42,2022-03-21 14:31:49,,0.0
+36,SOL PRAIA PONTA NEGRA,reservas@solpraiamarina.com.br,26.367.183/0001-71,0.0,GRATUITO,0,0,0,RN,Natal,,2022-03-18 15:53:14,,0.0
+37,Pinto e Cia Restaurante e Pousada Ltda,rest.pousadacaminhodomar@gmail.com,34.246.148/0001-22,0.0,GRATUITO,0,0,0,AL,Porto de Pedras,,2022-03-18 09:41:46,,0.0
+38,Imperial Hotel ,reservas@imperialhotel.tur.br,12.218.498/0003-04,0.0,GRATUITO,0,0,0,MA,Imperatriz,,2022-03-18 09:00:24,,0.0
+39,BESTLAR Negócios Imobiliários Ltda,contato@bestlar.com.br,10.783.341/0001-34,59.9,ATIVA,0,8,2,SP,Cotia,2022-03-07 12:22:08,2022-03-17 22:54:50,,0.0
+40,Masotti ,manutencao.masotti@gmail.com,09.429.078/0001-09,59.9,ATIVA,0,0,0,SP,Indaiatuba,2022-03-16 15:24:49,2022-03-17 14:31:37,,0.0
+41,MONTHEZ HOTEL & EVENTOS,elisiane@monthez.com.br,80.143.084/0001-51,0.0,GRATUITO,0,0,0,,,,2022-03-17 14:23:00,,0.0
+42,TERRA DOS DIAMANTES HOTEL,terradosdiamantes@gmail.com,13.587.160/0001-20,0.0,GRATUITO,0,0,0,,,,2022-03-16 10:14:48,,0.0
+43,Ultra Eletrônicos,atendimento@ultraeletronicos.com,29.430.619/0001-18,0.0,GRATUITO,0,0,0,,,,2022-03-14 18:40:10,,0.0
+44,Atlantica Hotels International Ltda - Comfort Nova Paulista,ggeral.cnp@atlanticahotels.com.br,02.223.966/0025-90,0.0,GRATUITO,0,0,0,,,,2022-03-11 21:07:48,,0.0
+45,tavil tavares vilela ltda,vilelaimoveis@yahoo.com.br,39.202.841/0001-17,59.9,ATIVA,0,4,0,RJ,Miguel Pereira,2022-03-02 20:08:31,2022-03-11 18:21:48,,0.0
+46,FS Advogado Associados,clellons@aasp.org.br,44.602.987/0001-90,159.9,CANCELADA,0,2,0,SP,São Paulo,2022-02-24 20:13:29,,2022-03-25 14:16:25,0.0
+47,Aquidaba Praia Hotel,financeiro@algaspraiahotel.com.br,24.121.103/0001-78,0.0,GRATUITO,0,0,0,,,,2022-03-21 08:58:50,,0.0
+48,LORD EMPREENDIMENTO DE HOTELARIA LTDA - EPP,gerencia@vertenteshotel.com.br,17.882.976/0001-38,0.0,GRATUITO,0,0,0,,,,2022-03-08 17:08:06,,0.0
+49,Hotel Londri Star Ltda,comercial@londristar.com.br,07.621.424/0001-12,0.0,GRATUITO,0,0,0,,,,2022-03-08 15:12:31,,0.0
+50,Terra Brasilis Boutiques Hotel Eireli,reservas@terrabrasilishotel.com.br,39.528.292/0001-75,0.0,GRATUITO,0,0,0,,,,2022-03-08 11:34:02,,0.0
+51,Marina de Iracema Park SA,internacional@marinapark.com.br,07.334.600/0001-35,0.0,GRATUITO,0,0,0,CE,Fortaleza,,2022-03-08 11:15:53,,0.0
+52,3d Engenharia Térmica Ltda,cristiano@3darcondicionado.com.br,74.315.292/0001-98,0.0,GRATUITO,0,0,0,,,,2022-03-08 09:03:29,,0.0
+53, Escola Materna LTDA,contato@escolamaterna.com,40.768.613/0001-98,0.0,GRATUITO,0,1,0,,,,2022-03-07 07:27:25,,0.0
+54,HOTEL ABBA UNO LTDA,reservas.uno@abbahotel.com.br,19.841.502/0001-73,0.0,GRATUITO,0,0,0,MG,Betim,,2022-03-04 14:31:14,,0.0
+55,Invictus Administração Hoteleira Ltda,diretoria@lagoonprimehotel.com.br,41.013.463/0001-75,0.0,GRATUITO,0,0,0,,,,2022-03-02 17:44:18,,0.0
+56,Maicom Aparecido da silva ,maicomapsilva21@gmail.com,41.492.203/0001-20,0.0,GRATUITO,0,0,0,,,,2022-03-01 15:37:02,,0.0
+57,DA FONSECA IMÓVEIS LTDA ,michelli@dafonsecaimoveis.com.br,45.121.304/0001-45,59.9,ATIVA,0,24,1,SP,Osasco,2022-03-03 10:13:07,2022-02-28 10:47:54,,0.0
+58,Visão On-line Assessoria e Informática Ltda.,visao@visao-ol.com.br,02.678.499/0001-16,0.0,GRATUITO,0,0,0,RJ,Três Rios,,2022-02-25 18:32:26,,0.0
+59,Porto da Serra Turismo LTDA ME,reservas@portodaserrahotel.com.br,23.206.705/0001-65,0.0,GRATUITO,0,0,0,,,,2022-02-25 16:53:45,,0.0
+60, HOTELARIA SERRANO PALACE.,hotelcostaatlantico@gmail.com,04.289.900/0004-02,0.0,GRATUITO,0,0,0,RN,Areia Branca,,2022-02-25 10:22:52,,0.0
+61,ALFA HOTEL,administracao@alfahotelteresina.com.br,11.063.767/0001-86,0.0,GRATUITO,0,0,0,,,,2022-03-07 10:04:25,,0.0
+62,CITI HOTEL CARUARU,andre@citihoteis.com.br,21.830.514/0001-44,0.0,GRATUITO,0,0,0,,,,2022-03-24 15:33:29,,0.0
+63,Relpz Financeira,regis@relpz.com.br,15.366.718/0001-73,0.0,GRATUITO,0,0,0,MS,Camapuã,,2022-02-22 23:52:43,,0.0
+64,Jhenniffer Castelão Sezerino Zocchi,jhenni.zocchi@gmail.com,949.725.751-15,49.9,CANCELADA,1,1,0,MS,Ponta Porã,2022-02-08 14:48:02,,2022-03-10 11:35:52,0.0
+65,TREVISI E BRAGATO HOTEL LTDA,celso@cristalpalace.com.br,08.178.836/0001-92,0.0,GRATUITO,0,0,0,,,,2022-02-19 10:24:18,,0.0
+66,F&D representações comerciais ltda,fdinizcasal@uol.com.br,11.881.511/0001-86,0.0,GRATUITO,0,0,0,,,,2022-02-18 11:51:33,,0.0
+67,MGM LOC. DE BENS MOV. ASS. DESIGN E MONT. PROMOC EIRELI,diretoria@mgm.com.br,00.261.791/0001-03,59.9,ATIVA,0,70,2,SP,São Paulo,2022-02-04 09:26:28,,,0.0
+68,La Linge Comércio e Representações LTDA,mateus@lalinge.com.br,35.565.902/0001-50,0.0,GRATUITO,0,0,0,,,,2022-02-17 17:46:09,,0.0
+69,Casa a Dois Imóveis,adm.casaadois@gmail.com,28.509.775/0001-06,0.0,GRATUITO,0,0,0,SP,Sorocaba,,2022-02-17 17:41:16,,0.0
+70,Hotéis da Fonte S/A,fonseca@marante.com.br,08.771.578/0001-53,0.0,GRATUITO,0,0,0,,,,2022-02-16 13:36:49,,0.0
+71,LINDA CASA IMOVEIS,imoveislindacasa@gmail.com,17.239.637/0001-38,0.0,GRATUITO,0,0,0,,,,2022-02-15 17:33:57,,0.0
+72,Gravatal Hoteis de Turismo S/A,pedro@hotelinternacionalgravatal.com.br,86.443.454/0001-52,0.0,GRATUITO,0,0,0,,,,2022-02-15 15:04:31,,0.0
+73,Capital Corp Ltda,capitalcorp.adm@gmail.com,41.914.916/0001-34,0.0,GRATUITO,0,0,0,,,,2022-02-15 10:54:33,,0.0
+74,Nobile Gestão de Empreendimentos Ltda SCP 001,controller.nsp@nobilehoteis.com.br,26.607.888/0001-19,0.0,GRATUITO,0,0,0,,,,2022-02-15 08:58:20,,0.0
+75,Luciano Mitiura Koharata,lumitiura@gmail.com,559.107.859-15,49.9,ATIVA,0,0,0,SP,São Caetano do Sul,2022-01-31 20:48:09,2022-02-14 20:43:05,,0.0
+76,Niara imóveis LTDA,financeiro@niaraimoveis.com.br,42.307.402/0001-83,0.0,GRATUITO,0,0,0,,,,2022-02-13 11:41:01,,0.0
+77,W. M. Salgado & Cia Ltda,wmcia@terra.com.br,93.284.149/0001-20,0.0,GRATUITO,0,0,0,,,,2022-02-11 15:27:59,,0.0
+78,Hotel Colonial Iguaçu,reservas@hotelcolonialfoz.com.br,76.680.404/0001-35,0.0,GRATUITO,0,0,0,,,,2022-02-11 15:10:39,,0.0
+79,ZAZ HOTEISLTDA,hospedagem@sanlucashotel.com.br,23.467.765/0001-31,0.0,GRATUITO,0,0,0,,,,2022-02-11 14:59:37,,0.0
+80,FICOTTO ASSESSORIA CONTÁBIL E CONSULTORIA FINANCEIRA LTDA,daniel@luvitaconsultoria.com.br,31.526.125/0001-83,0.0,GRATUITO,0,0,0,,,,2022-02-10 10:09:38,,0.0
+81,FLORENCA HOTEIS E TURISMO EIRELI,comercial@hotelmichelangelo.com.br,09.664.952/0001-84,0.0,GRATUITO,0,0,0,,,,2022-02-09 17:55:59,,0.0
+82,EZ Esquadrias de Aluminio LTDA,reinaldo@ezquadrias.com.br,13.309.606/0001-55,0.0,GRATUITO,0,0,0,SP,Sorocaba,,2022-02-09 10:50:32,,0.0
+83,Hotel Sonata de Iracema,gerencia@sonatadeiracema.com.br,04.595.481/0001-86,0.0,GRATUITO,0,0,0,,,,2022-02-08 21:34:49,,0.0
+84,Somai,financeiro@somai.com.br,25.142.692/0001-33,0.0,GRATUITO,0,3,0,,,,2022-02-07 14:33:49,,0.0
+85,BANDEIRA MANZANO ASSESSORIA IMOBILI,bandeiramanzano@gmail.com,09.132.517/0001-09,49.9,ATIVA,0,12,0,SP,Indaiatuba,2022-01-28 16:43:39,2022-02-04 17:50:47,,0.0
+86,GALES PARK HOTEL,contato@galesparkhotel.com.br,13.749.779/0001-94,0.0,GRATUITO,0,0,0,,,,2022-02-02 17:57:55,,0.0
+87,TRF Negócios Imobiliários Ltda.,contato.trfimob@gmail.com,37.600.333/0001-61,49.9,CANCELADA,0,9,0,SC,Itajaí,2022-02-03 15:57:53,2022-04-11 09:43:09,2022-03-22 00:03:14,0.0
+88,HOTEL RIO DO SONO LTDA,reservahotelriodosono@gmail.com,26.959.809/0001-39,0.0,GRATUITO,0,0,0,,,,2022-02-02 10:16:09,,0.0
+89,Paulo Dias Corretor de Imóveis Eireli,comercial@paulodiascorretorhp.com.br,34.595.951/0001-72,49.9,ATIVA,0,14,0,SC,Balneário Camboriú,2022-01-19 09:38:08,2022-02-02 09:33:49,,0.0
+90,Antonio Luiz Fernandes Ribeiro,antonio.luiz@aic.com.br,109.057.238-72,49.9,ATIVA,0,10,0,SP,SÃO PAULO,2022-01-18 15:57:10,2021-10-05 17:48:13,,0.0
+91,BARLAVENTO IMOVEIS E AVALIAÇÕES LTDA,barlaventoimoveis@gmail.com,41.911.961/0001-35,0.0,GRATUITO,0,1,0,,,,2022-01-31 08:15:18,,0.0
+92,Viva Contabilidade,vanessa@vivacontabilidade.com,34.584.135/0001-63,0.0,GRATUITO,0,1,0,,,,2022-01-28 16:45:48,,0.0
+93,Aquiraz Serviços de Hotelaria e Restaurante Eireli,comercial@larahotel.com.br,32.898.446/0001-71,0.0,GRATUITO,0,0,0,,,,2022-01-28 14:57:14,,0.0
+94,Thiago Ribeiro Furtado,thiagofurtadocorretor@gmail.com,009.278.359-75,0.0,CANCELADA,0,10,0,SC,Itajaí,2022-01-13 18:49:32,2022-04-11 09:39:18,2022-01-18 00:03:07,0.0
+95,Atlantica hos´pitality international ltd,ggeral.qpoa@atlanticahotels.com.br,02.223.966/0050-00,0.0,GRATUITO,0,0,0,,,,2022-01-27 16:33:01,,0.0
+96,marcia maria dias imobiliaria,marciadias.imoveis@gmail.com,33.461.107/0001-96,0.0,GRATUITO,0,1,0,,,,2022-04-25 14:11:00,,0.0
+97,CENTRO DE EXAMES SUPLETIVOS,superdiretor@gmail.com,42.189.200/0001-84,0.0,GRATUITO,0,0,0,,,,2022-01-25 12:23:30,,0.0
+98,Recife Praia Hotel,comercial@recifepraiahotel.com.br,09.850.173/0003-35,0.0,GRATUITO,0,0,0,,,,2022-01-20 09:34:47,,0.0
+99,Dias Pereira Advocacia,atendimento@diasepereira.com.br,27.878.865/0001-01,0.0,GRATUITO,0,0,0,,,,2022-01-19 14:19:16,,0.0
+100,CL Administradora de Bens Ltda EPP,universidadeimoveis@gmail.com,19.928.000/0001-84,49.9,ATIVA,0,24,1,,,2022-02-01 15:45:30,2022-01-17 11:55:13,,0.0
+101,Junior Cesar Bez Eireli,gerencia@vivaldicataratas.com.br,02.271.437/0001-95,0.0,GRATUITO,0,0,0,,,,2022-01-17 11:20:27,,0.0
+102,Tekno Vistorias prestação de serviço Ltda,teknovistorias@gmail.com,27.971.540/0001-79,0.0,GRATUITO,0,2,0,PR,Curitiba,,2022-01-12 09:51:00,,0.0
+103,Mazzini Administracao e Empreitas Ltda,luciano@mazzini.com.br,45.517.604/0001-48,2650.0,ATIVA,0,2017,3,SP,Santo André,2021-12-23 15:52:33,,,0.0
+104,WS Organização Contábil Ltda ME,alexandreweiller@hotmail.com,10.493.725/0001-12,79.9,ATIVA,0,47,0,MS,Campo Grande,2021-12-28 17:21:10,2022-01-03 16:23:18,,0.0
+105,O. C. JUNIOR - COACHING - MENTORING - H,osmar1815@gmail.com,40.869.813/0001-37,0.0,GRATUITO,0,2,0,,,,2021-12-31 15:14:18,,0.0
+106,Walter Rodrigues Imóveis,walterrodriguesimoveis.ba@gmail.com,42.276.098/0001-54,59.9,ATIVA,0,23,0,BA,Santo Antônio de Jesus,2021-12-17 10:23:59,2022-03-02 10:43:22,,0.0
+107,MONTE VERDE ENGENHARIA LTDA,contato@monteverdeengenharia.com,44.501.512/0001-07,0.0,GRATUITO,0,3,0,SC,Balneário Piçarras,,2021-12-30 22:58:43,,0.0
+108,PLENA NEGOCIOS IMOBILIARIOS LTDA,locacao@plenaimobiliaria.com.br,19.778.618/0001-05,0.0,GRATUITO,0,6,1,SC,Itajaí,,2022-03-25 09:51:17,,0.0
+109,Qra Serviços Administrativos e Facilities Ltda,qraservicos@qraservicos.com.br,15.010.392/0001-47,0.0,GRATUITO,0,3,0,,,,2021-12-30 11:58:43,,0.0
+110,Adriano Zatta de Almeida,adrianozatta@tenenge.com,055.877.836-42,0.0,ATIVA,0,3,0,SP,São Paulo,2021-12-14 10:03:22,,,0.0
+111,Empresa TESTE Fast4Sign 1,contato@fast4sign.com.br,39.309.795/0001-50,0.0,GRATUITO,0,1,0,,,,2021-12-24 09:31:06,,0.0
+112,Yuri Pimentel Kirihata,yurikirihata@gmail.com,399.586.848-70,49.9,CANCELADA,1,3,0,SP,Assis,2021-12-09 18:21:46,2022-03-26 00:37:21,2022-01-22 14:38:14,0.0
+113,Arnaldo adn23 teste,arnaldo@adn23.com.br,888.770.580-13,59.9,CANCELADA,1,4,2,SP,São Paulo,,,2022-03-09 00:03:20,0.0
+114,Empresa Jonas Teste,jonas.pessoa@devolus.com,25.447.855/0001-96,0.0,GRATUITO,1,6,0,CE,Fortaleza,2021-12-14 15:49:07,2021-12-23 11:59:47,,0.0
+115,Ravim Soluções Financeiras ,luiz.rampazo@ravimsolucoesfinanceiras.com.br,32.632.409/0001-17,0.0,GRATUITO,0,1,0,,,,2021-12-15 19:59:49,,0.0
+116,Kaleby Juan,kalebyjuan@hotmail.com,083.518.633-43,,,0,0,0,,,,,,0.0
+117,KI NEGOCIOS IMOBILIÁRIOS LTDA,diretoria@kasaraoimoveis.com.br,43.373.009/0001-50,79.9,ATIVA,0,10,0,SP,São Paulo,2021-11-26 10:17:11,,,0.0
+118,Mv Costa Imoveis,atendimento@mvcostaimoveis.com.br,17.780.717/0001-04,49.9,ATIVA,0,0,0,SP,São Bernardo do Campo,2021-11-25 15:44:11,2021-12-09 15:22:00,,0.0
+119,DICASA COMERCIO DE MATERIAIS DE CONSTRUÇÃO LTDA,,07.013.648/0002-22,,,0,0,0,,,,,,0.0
+120,ALVO EMPREENDIMENTOS E PARTICIPAÇÕES IMOBILIARIAS,imoveisalvo@gmail.com,18.949.566/0001-20,79.9,CANCELADA,0,1,0,SP,Mogi Mirim,2021-11-16 17:47:06,2021-11-30 17:37:51,2021-11-24 00:03:01,0.0
+121,Gandget Serviços e Produções,ceo@gandget.com,37.468.129/0001-39,0.0,GRATUITO,0,0,0,PA,Belém,,2021-11-22 23:02:19,,0.0
+122,KomuniK Assessoria em Comunicação ME,monica.alonso@komunik.com.br,32.381.784/0001-31,0.0,GRATUITO,0,6,0,SP,São Paulo,,2021-11-16 15:36:08,,0.0
+123,CARMELLO CORRETAGEM E GESTÃO DE IMÓVEIS LTDA,carmelloimoveis@hotmail.com,29.800.462/0001-75,0.0,GRATUITO,0,0,0,BA,Salvador,,2021-11-06 13:26:56,,0.0
+124,Instituto Educacional Oswaldo Quirino ltda.,thiago.neres@oswaldocruz.br,60.704.418/0001-01,0.0,GRATUITO,0,1,0,,,,2021-11-05 11:11:09,,0.0
+125,Jonas Pessoa C.,jonas.a7x@hotmail.com,350.142.730-17,,,0,0,0,,,,,,0.0
+126,Sabrina Daniele Alves,binaalves.ev@hotmail.com,43.839.540/0001-76,0.0,TESTE,0,69,1,SP,São Paulo,2021-12-13 09:23:33,,,0.02
+127,sollydus technology,comercial@sollydus.com.br,40.085.269/0001-32,0.0,GRATUITO,0,5,0,,,,2021-11-04 08:51:38,,0.0
+128,PMA INNOVA ADMINISTRAÇÃO E PARTIPAÇÕES ,francieli.santos@innova.net.br,07.588.875/0001-03,0.0,GRATUITO,0,0,0,,,,2021-11-03 10:36:04,,0.0
+129,SSANTOS ADM DE BENS E IMÓVEIS LTDA,locacao3@brodasa.com.br,14.365.487/0001-10,0.0,GRATUITO,0,0,1,,,,2021-10-29 18:01:33,,0.0
+130,Sindilex - Sindicato dos Servidores da Câmara Municipal e do Tribunal de Contas do Município,sindilex@sindilex.org.br,08.612.232/0001-02,0.0,GRATUITO,0,1,0,,,,2021-10-22 15:01:11,,0.0
+131,MASP Consultoria imobiliária e administração LTDA ,contato.masp@maspimoveissp.com.br,40.983.243/0001-01,0.0,GRATUITO,0,2,0,SP,São Paulo,,2021-10-21 12:49:17,,0.0
+132,Rosangela Vieira Negócios,juliogarcez.rvn@gmail.com,33.908.327/0001-15,0.0,GRATUITO,0,16,0,,,,2021-10-21 11:57:30,,0.0
+133,Canaã Telecom,alandemarcos@canaatelecom.com.br,26.263.503/0001-43,0.0,GRATUITO,0,0,1,,,,2021-10-21 08:16:05,,0.0
+134,Joao asdasd,fatzero@hotmail.com,133.385.210-06,0.0,CANCELADA,1,3,0,SP,São Paulo,2021-10-04 12:47:44,2021-04-11 20:04:02,2021-11-24 00:03:01,0.0
+135,Beatriz Bergamachi Cabral,biacabral@gmail.com,226.814.518-25,49.9,ATIVA,0,1,0,SP,São Paulo,2021-10-02 14:30:49,2021-10-16 13:20:11,,0.0
+136,FUNDAÇÃO ASTROJILDO PEREIRA,daniele@fundacaoastrojildo.org.br,04.575.883/0001-19,0.0,GRATUITO,0,0,0,,,,2021-10-14 14:32:48,,0.0
+137,Coobrastur Viagens e Turismo Ltda,apoiologistico1@coobrastur.com.br,01.573.933/0001-30,1899.99,ATIVA,0,3686,70,RS,Canela,2021-12-23 14:15:34,,,0.0
+138,RMX ENGENHARIA E ARQUITETURA LTDA.,robertmoura10@gmail.com,36.750.978/0001-18,0.0,GRATUITO,0,0,0,,,,2021-10-12 16:05:12,,0.0
+139,Cleusa A. Maciel Imóveis,cleusa_maciel@hotmail.com,16.509.489/0001-61,0.0,GRATUITO,0,3,0,RS,Espumoso,,2021-10-07 10:24:52,,0.0
+140,Praes Consultoria Imobiliaria e Incorporadora EIRELI,beatrizrocha@praes.com.br,11.216.593/0001-44,0.0,GRATUITO,0,1,0,,,,2021-10-05 11:41:15,,0.0
+141,Levycam Corretora de Cambio e Valores LTDA,karina.paiva@levycam.com.br,50.579.044/0003-58,0.0,GRATUITO,0,0,0,,,,2021-10-04 14:04:54,,0.0
+142,Sobral Consultoria imobiliária,sobralconsultimobiliaria@gmail.com,21.715.548/0001-98,59.9,ATIVA,0,101,1,SP,Águas de Santa Bárbara,2021-09-15 10:51:45,,,0.0
+143,Ana Carolina Harder Pedrina Nunes,anacarolharder@hotmail.com,330.252.338-69,59.9,ATIVA,0,38,0,SP,Sorocaba,2021-09-13 13:33:39,2021-09-27 13:30:02,,0.0
+144,Golden Intermediacoes,admimobiliariagolden@gmail.com,30.860.905/0001-00,59.9,CANCELADA,1,3,3,SP,São José dos Campos,2021-09-10 11:01:02,2021-09-23 11:39:15,2022-03-09 00:03:20,0.0
+145,associação jardim versailles,madalena.m.melo@hotmail.com,21.946.267/0001-46,0.0,GRATUITO,0,0,0,,,,2021-09-16 08:47:14,,0.0
+146,Cesar Augusto Bento,vendealugaimoveiscampinas@gmail.com,151.669.238-12,59.9,CANCELADA,1,0,0,SP,Campinas,2021-08-31 13:58:52,2021-09-14 13:57:12,2021-12-20 00:02:55,0.0
+147,Baeza Empreendimentos,daniele@baezaimoveis.com.br,34.458.485/0001-83,0.0,GRATUITO,0,7,0,,,,2021-09-13 12:28:52,,0.0
+148,00,pedro.apsf@gmail.com,,,,1,0,0,,,,,,0.0
+149,AGILIZA IMÓVEIS LTDA,rute.agiliza@outlook.com,34.317.103/0001-00,59.9,ATIVA,0,80,1,SP,Guarulhos,2021-10-19 09:06:32,2021-12-20 19:02:08,,0.0
+150,VIP Selections Assessoria & Consultoria Imobililiria,ronaldobarosa@vipselections.com.br,29.646.799/0001-70,0.0,GRATUITO,0,0,0,SP,São Paulo,,2021-09-08 12:12:28,,0.0
+151,Central dos Beneficios,felipenunes@centraldosbeneficios.com.br,19.112.659/0001-68,0.0,GRATUITO,0,2,0,,,,2021-09-08 10:51:13,,0.0
+152,Confidence Imóveis ,financeiro1.prosperiam@gmail.com,33.647.100/0001-63,49.9,CANCELADA,1,0,0,BA,Vitória da Conquista,2021-08-25 10:22:46,2021-09-07 16:27:09,2022-01-18 00:03:07,0.0
+153,BRAZCON ASSESSORIA CONTABIL,anderson@brazcon.net.br,56.888.324/0001-62,0.0,GRATUITO,0,2,0,,,,2021-09-03 15:21:18,,0.0
+154,Igb Consultoria E Administracao De Imoveis,marketing@igbimoveis.com.br,03.254.065/0001-51,0.0,GRATUITO,0,1,0,,,,2021-09-01 15:17:38,,0.0
+155,Global Química e Moda,fabrizio.bracesco@gqm.com.br,08.026.508/0001-70,0.0,GRATUITO,0,2,0,SP,São Paulo,,2021-08-30 12:07:11,,0.0
+156,Pedro Aragão,pedro@infodep.com.br,913.938.093-91,0.0,CANCELADA,1,2,0,CE,Fortaleza,2021-09-01 14:11:37,2021-06-10 12:29:00,2021-11-22 00:03:05,0.0
+157,Arroba Soluções em Informática,peterson@arroba.inf.br,09.465.005/0001-64,0.0,GRATUITO,0,2,0,,,,2021-08-25 12:51:11,,0.0
+158,Kiodo Corretora de Seguros,proposta@majimeseguros.com.br,23.189.523/0001-23,0.0,GRATUITO,0,1,0,,,,2021-08-24 17:58:45,,0.0
+159,CEDROS EMPREENDIMENTOS IMOBILIARIOS LTDA.,adm@cedros.imb.br,21.759.805/0001-93,0.0,GRATUITO,0,4,4,,,,2021-08-23 16:32:33,,0.0
+160,Prosperare Corretores & Imobiliárias Associados Ltda.,matheus@sellf.com.br,43.886.546/0001-02,49.9,CANCELADA,1,0,0,MG,Belo Horizonte,2021-08-03 12:23:36,,2021-11-24 00:03:01,0.0
+161,EFA CONSULTORIA LTDA.,everton@growthbase.com.br,36.987.091/0001-48,0.0,GRATUITO,0,8,1,,,,2021-09-30 18:40:52,,0.0
+162,SoftClube (Leidiane Lima da Conceição MEI),fabiozdo@gmail.com,42.033.957/0001-84,0.0,GRATUITO,0,1,0,BA,Teixeira de Freitas,,2021-08-14 19:28:38,,0.0
+163,Rionit Serviços de Tecnologia da Informação Ltda,dho@rionit.net.br,28.803.227/0001-94,0.0,GRATUITO,0,3,0,,,,2021-08-13 12:27:33,,0.0
+164,NOVA HOUSE NEGÓCIOS IMOBILIÁRIOS ,bruno.maciel@novahouseimoveis.com.br,24.313.234/0001-57,49.9,ATIVA,0,71,0,MS,Campo Grande,2021-08-02 20:49:10,2021-08-12 17:55:59,,0.0
+165,Criação Online Comunicação Ltda,criacao@criacaonline.com.br,20.647.561/0001-94,0.0,GRATUITO,0,1,0,,,,2021-08-11 10:52:22,,0.0
+166,danillo s barsan,danillobarsan@gmail.com,334.384.818-20,59.9,ATIVA,0,37,0,SP,São Paulo,2021-07-14 15:21:17,2021-07-16 17:14:02,,0.0
+167,patricia nunes de oliveira,pt210181@gmail.com,29.484.731/0001-31,0.0,GRATUITO,0,2,0,,,,2021-07-23 07:48:40,,0.0
+168,Suely Almeida da Silva Nascimento,suelyalmeidabit@gmail.com,273.899.998-02,49.9,CANCELADA,1,25,0,BA,Feira de Santana,2021-07-05 15:27:39,2021-09-12 15:56:18,2022-03-24 00:03:08,0.0
+169,Trinity House Negócios Imobiliários,contato@dubaibrokers.com.br,42.372.964/0001-00,0.0,GRATUITO,0,19,0,SP,Barueri,,2021-09-12 12:41:52,,0.0
+170,Jes Publicidade ,jespublicidade@gmail.com,15.804.786/0001-77,0.0,GRATUITO,0,0,0,,,,2021-07-13 15:01:31,,0.0
+171,Daniela Cristiane da silva,daniela@imoveissuprema.com.br,230.027.728-01,49.9,ATIVA,0,38,0,SP,Sorocaba,2021-06-28 13:41:45,,,0.0
+172,LevycamCorretora de Cambio e Valores.,johnny@levycam.com.br,50.579.044/0001-96,320.0,ATIVA,0,630,6,SP,São Paulo,,,,0.0
+173,DIETER PAULO ELSNER,dieter.elsner@hotmail.com,308.024.230-00,59.9,ATIVA,0,14,0,RS,Santa Maria,2021-06-24 16:52:11,2021-07-05 19:01:54,,0.0
+174,Nova Granja Viana Imobiliária Ltda.,nova@novagranjaviana.com.br,16.466.700/0001-06,79.9,CANCELADA,1,0,0,SP,Jandira,2021-06-11 16:25:21,2021-06-25 15:58:44,2022-03-09 00:03:20,0.0
+175,Buriti Administradora de Bens Próprios Ltda,valter@pactualms.com.br,38.403.932/0001-58,0.0,GRATUITO,0,0,0,,,,2021-06-16 11:49:22,,0.0
+176,Irmãos Cordeiro OBRAS CONSTRUÇÃO CÍVIL E TRASPORTE LTDA,cordeiroleanderson@gmail.com,31.573.667/0001-07,0.0,GRATUITO,0,0,0,,,,2021-06-11 18:49:11,,0.0
+177,M TARDEN,kilochik@hotmail.com,27.997.765/0001-02,0.0,GRATUITO,0,0,0,,,,2021-06-08 10:29:04,,0.0
+178,Corretora de imóveis Rute Araujo,ruteimoveis@hotmail.com,17.115.242/0001-23,0.0,GRATUITO,0,1,0,,,,2021-06-02 16:22:57,,0.0
+179,IMOBILIARIA SUPERAÇÃO LTDA,superacaoimobiliaria@gmail.com,13.719.105/0001-47,0.0,GRATUITO,0,3,0,SP,Guarulhos,,2021-06-01 16:03:49,,0.0
+180,IMOBILIÁRIA FORMATO,comercial@imobiliariaformato.com.br,00.586.985/0001-89,79.9,ATIVA,0,114,4,MS,Campo Grande,2021-05-20 10:27:26,2021-06-01 08:42:52,,0.0
+181,Pedro Arator Fernandes Pinto do Prado ,pedrocred@hotmail.com,09.266.848/0001-31,49.9,CANCELADA,1,2,0,RS,Torres,2021-05-13 13:10:48,2021-05-27 23:59:59,2021-11-22 00:03:05,0.0
+182,COSMO LOGISTICA E SERVICOS PORTUARIOS EIRELI,commercial@cosmoslog.com.br,19.667.688/0001-96,0.0,GRATUITO,0,0,0,,,,2021-05-24 13:50:54,,0.0
+183,Annaz Comercio Vestuario Ltda,zanacrod@gmail.com,33.853.572/0001-72,0.0,GRATUITO,0,0,0,,,,2021-05-18 19:37:32,,0.0
+184,meta emprestimos,comercial@metaemprestimos.com.br,30.978.418/0001-39,0.0,GRATUITO,0,1,0,,,,2021-05-18 17:42:50,,0.0
+185,Ribera Negócios Imobiliários Ltda,riberamkt@gmail.com,14.083.517/0001-04,0.0,GRATUITO,0,1,0,,,,2021-05-18 11:50:43,,0.0
+186,Rafaela,rafah.kon@gmail.com,25.222.818/0001-80,0.0,GRATUITO,0,2,0,SP,Diadema,,,,0.0
+187,HORIZON ADMINISTRADORA DE CONDOMÍNIOS LTDA,gisele@horizonadm.com.br,03.070.135/0001-11,0.0,GRATUITO,0,0,0,,,,2021-05-17 14:20:12,,0.0
+188,ELO SERVIÇOS ADMINISTRATIVOS PARA CONDOMINIOS LTDA,elo@eloadm.com.br,28.751.792/0001-55,0.0,GRATUITO,0,1,0,,,,2021-05-14 09:05:47,,0.0
+189,Fernanda Ogeda,fernanda.ogeda@leardi.com.br,276.488.828-76,59.9,CANCELADA,1,54,1,SP,Santo André,2021-04-29 16:42:08,2021-05-13 14:53:10,2022-03-10 00:03:23,0.0
+190,Flaviane de Souza,contato@fasassessoria.imb.br,090.944.527-31,49.9,CANCELADA,1,16,0,SP,Barueri,2021-04-27 15:11:07,2020-11-08 18:03:53,2021-12-14 00:02:58,0.0
+191,IMOBILIARIA ATLANTICA IMOVEIS,financeiro@atlanticaimoveis.com,23.428.086/0001-53,79.9,ATIVA,0,114,0,RJ,Macaé,2021-05-28 14:16:43,2021-08-28 10:06:23,,0.0
+192,TG SENCI CONSTRUTORA,senciconstrutora@gmail.com,33.128.637/0001-17,0.0,GRATUITO,0,23,0,SP,Sorocaba,,2021-05-11 09:59:00,,0.0
+193,JR Apoio Logstico,elaine@jrapoiologistico.com.br,10.861.759/0001-12,0.0,GRATUITO,0,0,0,,,,2021-05-07 14:42:31,,0.0
+194,CONSTHRUIR ENGENHARIA LTDA.,adm@consthruir.com.br,52.046.638/0001-67,59.9,ATIVA,0,98,0,SP,São Paulo,2021-05-04 10:00:21,2021-05-07 11:56:48,,0.0
+195,Onofre Carioca da Silva Junior,ocariocaimoveis@gmail.com,090.522.938-05,49.9,CANCELADA,1,1,0,PR,Guarapuava,2021-04-16 10:35:15,2021-06-09 18:55:41,2021-11-22 00:03:05,0.0
+196,Andre Vizeu,andrevizeurodrigues@gmail.com,264.410.608-76,59.9,CANCELADA,1,10,0,SP,São Paulo,2021-04-15 14:06:25,2021-04-27 21:22:04,2021-07-16 07:22:34,0.0
+197,Luís Cláudio da Silva,lcsilva@atlantica1947.com,607.653.647-00,49.9,ATIVA,0,12,0,RJ,Rio de Janeiro,2021-04-14 09:56:17,2021-04-22 15:12:55,,0.0
+198,Construtora Sant´Anna,gustavo.barcelos@gruposantanna.com.br,25.349.440/0001-80,0.0,GRATUITO,0,2,0,,,,2021-04-26 08:57:02,,0.0
+199,Michelle Corbal Imóveis Ltda,michelly.imoveis@gmail.com,39.817.412/0001-54,79.9,ATIVA,0,105,0,SP,Jundiaí,2021-05-07 16:27:58,2021-10-09 23:59:59,,0.0
+200,Bahaus Soluções Construtivas ltda ,felipebarreto.barcal@gmail.com,30.710.524/0001-37,59.9,CANCELADA,1,0,0,MG,Belo Horizonte,2021-04-09 15:04:47,2021-04-23 14:31:32,2021-11-22 00:03:05,0.0
+201,Melhor Imóveis Eireli,josemar@melhorimoveis.com.br,37.023.624/0001-34,49.9,CANCELADA,1,19,0,SC,Balneário Camboriú,2021-04-13 15:46:45,,2021-12-13 08:49:06,0.0
+202,dlf negocios imobiliarios ,dlf.aluguel10@gmail.com,38.136.678/0001-79,59.9,CANCELADA,0,20,0,SP,Campinas,2021-10-20 12:07:31,,2021-12-17 00:03:06,0.0
+203,HOME CONNECT IMÓVEIS,filipe@homeconnectimoveis.com.br,33.500.004/0001-98,49.9,CANCELADA,1,4,0,SC,Joinville,2021-04-07 18:27:37,2021-04-21 18:24:13,2021-11-22 00:03:05,0.0
+204, WF representações e investimentos LTDA ,investimentos.grupowf@gmail.com,39.715.042/0001-44,0.0,GRATUITO,0,0,0,,,,2021-04-19 18:40:51,,0.0
+205,Taissa  Amorin,taissa@amorinimoveis.com.br,025.779.199-05,49.9,CANCELADA,1,4,0,PR,Curitiba,2021-03-31 15:23:42,2021-03-18 16:48:13,2021-11-22 00:03:05,0.0
+206,Antonio Marcos Martins,antoniomarcossorocaba@gmail.com,182.332.668-41,59.9,ATIVA,0,39,0,SP,Sorocaba,2021-03-30 10:05:19,,,0.0
+207,Talitha Correa Alcantara M. leite,talitha@valorimobiliaria.com.br,016.607.825-54,0.0,GRATUITO,0,3,0,,,,2021-04-05 15:14:27,,0.0
+208,RR CORRETAGEM LTDA,rrcorretora@hotmail.com,33.781.100/0001-51,0.0,GRATUITO,0,11,0,MG,Belo Horizonte,,2021-04-12 13:17:56,,0.0
+209,Tony Silva Imóveis,tonysilvaimoveis@gmail.com,27.306.671/0001-31,59.9,CANCELADA,1,5,0,RJ,Cabo Frio,2021-03-29 14:27:14,2021-12-16 09:52:58,2021-11-22 00:03:05,0.0
+210,Associação Lifewords Brasil,cleisse.andrade@sgmlifewords.com,01.630.157/0001-63,0.0,GRATUITO,0,1,0,,,,2021-04-09 09:29:32,,0.0
+211,ADRIANO IMÓVEIS ,adrianoimoveis.vendas@hotmail.com,26.861.686/0001-07,0.0,GRATUITO,0,0,0,,,,2021-04-08 09:17:18,,0.0
+212,MÁRCIO DA SILVA BRAUN,marciosbraun@gmail.com,981.754.327-72,49.9,ATIVA,0,24,0,RJ,Rio de Janeiro,2021-03-23 10:52:13,2021-03-15 23:59:59,,0.0
+213,Imobiliária Esperança de Osasco Ltda.,danielli@imobiliariaesperanca.com.br,65.696.015/0001-81,0.0,GRATUITO,0,0,0,,,,2021-04-05 10:28:45,,0.0
+214,Souza Diniz Ensino de Idiomas Ltda,ped.curitibacapaoraso@cna.com.br,21.640.049/0001-89,0.0,GRATUITO,0,7,0,,,,2021-04-02 13:39:22,,0.0
+215,DIRCE MASUMOTO PIRES,dircempires.corretora@gmail.com,091.629.918-09,49.9,ATIVA,0,4,0,SP,São Paulo,2021-01-13 16:37:27,2021-01-13 23:59:59,,0.0
+216,Kaleby Juan Cordeiro de Castro,kalebyandroid@gmail.com,000.000.000-00,,,1,5,0,,,,,,0.0
+217,Antônio Dias Imóveis Ltda,rodrigo@antoniodiasimoveis.com.br,19.005.966/0001-40,0.0,GRATUITO,0,4,0,,,,2021-03-31 12:35:38,,0.0
+218,STERSIMÓVEIS,listersi@hotmail.com,36.372.020/0001-30,0.0,GRATUITO,0,0,0,,,,2021-03-29 13:10:42,,0.0
+219,Beatriz de Souza Lucchese,beatriz@beatrizluccheseimoveis.com.br,432.496.120-49,59.9,ATIVA,0,86,0,SC,Balneário Camboriú,2021-03-12 20:27:12,2021-12-29 19:58:16,,0.0
+220,Flavio F Syozi Imoveis ,contato@convictosimoveis.com.br,36.641.493/0001-96,49.9,ATIVA,0,126,0,SP,São Paulo,2021-03-12 16:34:02,2021-03-24 23:59:59,,0.0
+221,Arnaldo Teste asaas,arnaldodevolus@gmail.com,90.894.118/0001-01,0.0,GRATUITO,0,0,0,SP,São Paulo,2021-03-09 14:35:28,2022-03-29 17:02:17,,0.0
+222,"REHDER, BENETTI E KAIRUZ ADVOGADOS ASSOCIADOS",mauricio@rbkadvogados.com.br,07.104.893/0001-64,79.9,ATIVA,0,23,0,SP,Araraquara,,2021-08-10 17:39:10,,0.0
+223,MPD Engenharia Ltda,mferreira@mpd.com.br,50.765.288/0001-63,124.9,TESTE,0,0,0,SP,,2021-03-30 14:26:33,2021-10-30 23:59:59,,0.0
+224,Oliveira Fontes Advogados,secretariaofsa@gmail.com,14.756.299/0001-13,0.0,GRATUITO,0,1,0,,,,2021-03-16 19:41:08,,0.0
+225,Kaleby Juan,kalebyjuan@hotmail.com,20.014.704/0001-20,0.0,ATIVA,0,38,3,CE,Fortaleza,2022-03-25 14:55:29,,,0.0
+226,360 Graus Pesquisa e Desenvolvimento em Tecnologia Ltda,pilotto@hangar360.com.br,10.656.343/0001-62,0.0,GRATUITO,0,1,0,,,,2021-03-11 08:47:18,,0.0
+227,ROCHA&ROCHA ADMINISYTRADORA DE IMÓVEIS,rocha@itamaratyimo.com.br,35.059.396/0001-27,159.9,ATIVA,0,48,0,DF,Brasília,2021-02-25 11:36:50,2021-03-10 17:17:07,,0.0
+228,Emplavi Realizações Imobiliárias Ltda,barbara.azevedo@emplavi.com.br,00.670.232/0001-57,0.0,GRATUITO,0,2,2,,,,2021-03-08 08:33:51,,0.0
+229,Pro security,janiomoreno2711@hotmail.com,,0.0,GRATUITO,0,0,1,SP,São Paulo,,2022-02-09 11:03:25,,0.0
+230,Pro security ,luizdossantosj@gmail.com,,0.0,GRATUITO,0,0,0,,,,2021-07-28 12:31:25,,0.0
+231,PAULA CAMARA LEONE,juridico@emplavi.com.br,010.611.091-86,225.0,CANCELADA,1,0,0,SP,Jundiaí,2021-01-29 16:53:31,,2021-12-01 08:54:09,0.0
+232,ALUGUINVEST,emerton@gmail.com,06.998.197/0001-86,59.9,ATIVA,0,165,1,SC,Florianópolis,2021-02-16 16:06:20,2021-12-28 10:44:52,,0.0
+233,Realizze Negócios Imobiliários LTDA-Me,juliana@realizzeimobiliaria.com,33.848.341/0001-70,0.0,GRATUITO,0,1,0,,,,2021-03-02 13:27:44,,0.0
+234,Daniela Bueno Interiores,danibueno.interiores@gmail.com,37.456.887/0001-37,0.0,GRATUITO,0,0,0,,,,2021-02-22 14:44:14,,0.0
+235,Morar Bem Imóveis,sergio@eumerecomorarbem.com.br,16.792.856/0001-87,0.0,GRATUITO,0,1,0,MA,Açailândia,,2021-02-20 19:01:01,,0.0
+236,TPH Negócios Imobiliários LTDA.,denilson@tphimoveis.com,12.048.537/0001-00,0.0,GRATUITO,0,1,0,,,,2021-02-20 13:15:04,,0.0
+237,,albaregina1426@gmail.com,,0.0,GRATUITO,0,0,0,,,,2021-03-19 13:36:22,,0.0
+238,Edmur Imoveis Ltda,edmur@edmur.com.br,50.186.329/0001-67,0.0,GRATUITO,0,2,0,,,,2021-02-17 16:40:59,,0.0
+239,Arnaldo j r Cavalcanti,arnaldo@devolus.com,012.021.446-67,79.9,ATIVA,0,126,2,SP,São Paulo,,,,0.0
+240,R MACIEL IMOVEIS EIRELI,rmaraujo.mao@gmail.com,36.039.111/0001-59,49.9,CANCELADA,1,23,0,AM,Manaus,2021-03-11 10:01:33,2021-04-19 15:05:31,2021-11-22 00:03:04,0.0
+241,Pro security,ev.luizcarlossantos@gmail.com,,0.0,GRATUITO,0,0,0,,,,2021-02-10 22:58:37,,0.0
+242,MG Seguros e Previdencia,eduardo.paula@mgseguroseprevidencia.com.br,26.136.748/0001-00,1800.0,ATIVA,0,52,2,MG,Belo Horizonte,2021-01-27 15:59:21,,,0.0
+243,UHE Itaocara S.A.,jean@uheitaocara.com.br,23.859.108/0001-30,0.0,GRATUITO,0,1,0,,,,2021-02-03 11:00:40,,0.0
+244,João Francisco da silva pinto me,bembrasilbb@gmail.com,,0.0,GRATUITO,0,0,0,,,,2021-02-08 15:51:30,,0.0
+245,AG Incorporação de Empreendimentos e Participações ,financeiro@agcomfort.com.br,37.064.297/0001-69,49.9,ATIVA,0,85,1,MT,Cuiabá,2021-01-18 15:17:17,2021-07-20 09:43:56,,0.0
+246,MEI Instalação Industrial LTDA,leonardo.hallak@mei.eng.br,05.526.543/0002-60,0.0,GRATUITO,0,0,0,,,,2021-01-25 11:31:41,,0.0
+247,Frank Imobiliaria,frankjosee9@gmail.com,04.449.951/0000-1,0.0,GRATUITO,0,0,0,SE,Aracaju,2021-01-07 15:48:31,2021-01-21 15:34:42,,0.0
+248,Oxitech Comércio e Transporte de Gases Ltda,isaqueferraz@hotmail.com,237.387.075-49,49.9,ATIVA,0,2,0,MA,Imperatriz,2021-01-06 17:12:10,2021-07-21 10:14:20,,0.0
+249,Janete Martins de Almeida,janetemartins.creci100758@gmail.com,079.095.138-01,59.9,CANCELADA,1,6,0,,,2021-01-06 15:32:41,2021-02-15 09:55:23,2021-11-22 00:03:05,0.0
+250,DE MILLUS S A INDUSTRIA E COMERCIO,laura@demillus.com.br,33.115.817/0001-64,180.0,ATIVA,0,703,18,RJ,Rio de Janeiro,2020-12-21 13:58:46,,,0.0
+251,CIFRA EMPREENDIMENTOS COMERCIAIS LTDA,juridico@imoveiscifra.com.br,00.452.488/0001-98,79.9,ATIVA,0,160,1,SP,São Paulo,2021-01-06 16:14:52,2022-01-31 14:19:41,,0.0
+252,Rafaela,rafaela@devolus.com,392.905.338-11,0.0,ATIVA,0,29,0,SP,Diadema,2021-01-06 11:11:22,,,0.0
+253,Cobrecert Recuperadora de Crédito e Assessoria,nicksonpn@hotmail.com,38.213.415/0001-16,0.0,GRATUITO,0,2,0,,,,2021-02-11 12:00:15,,0.0
+254,Cris Fest Decor,crisfestdecor@gmail.com,34.507.484/0001-81,0.0,GRATUITO,0,0,0,,,,2021-01-14 09:32:44,,0.0
+255,Boqueirão Agronegócios,cobranca@agroboqueirao.com.br,03.558.255/0001-62,0.0,GRATUITO,0,2,0,,,,2021-01-12 10:52:28,,0.0
+256,SD DARE ADMINISTRAÇÃO DE BENS E CONDOMINIOS LTDA,flaviadare@sddare.com.br,10.518.972/0001-26,0.0,GRATUITO,0,2,0,,,,2021-01-07 12:02:20,,0.0
+257,Frank Imobiliaria ltda,frankjose1000@hotmail.com,04.449.951/0001-01,0.0,GRATUITO,0,0,0,,,,2021-01-05 23:24:40,,0.0
+258,Chicralla Dermatologia Eirelli,clinicapaulachicralla@gmail.com,14.987.626/0001-48,0.0,GRATUITO,0,0,0,,,,2021-01-04 16:20:56,,0.0
+259,Nelson Cuptchik,nelsoncup@gmail.com,545.967.427-15,,,0,4,0,,,,,,0.0
+260,ALIMONTI COMERCIAL E CONSTRUTORA LTDA ,contato@alimonti.com.br,52.584.786/0001-35,0.0,GRATUITO,0,4,0,,,,2021-04-21 16:07:02,,0.0
+261,Imobiliária Morada do Bem ,administracao@moradadobem.com.br,32.285.716/0001-79,49.9,ATIVA,0,80,2,BA,Salvador,2020-12-14 11:53:11,2020-12-28 23:59:59,,0.0
+262,Jofege - Pavimentação e Construção Ltda,pecorari@jofege.com.br,62.162.847/0001-20,0.0,GRATUITO,0,0,0,,,,2020-12-24 17:46:46,,0.0
+263,Kabral Aluguel de Imóveis,kabral@kabral.com.br,08.267.945/0001-86,79.9,ATIVA,0,623,0,SC,Florianópolis,,2021-07-20 16:16:21,,0.0
+264,Agilize Consultoria Imobiliária,lucasrodrigues@agilizeimob.com.br,37.997.252/0001-47,59.9,ATIVA,0,113,0,RJ,Macaé,2020-12-09 10:31:58,,,0.0
+265,Ideal Imóveis,atendimentoaluguel.idealimoveis@hotmail.com,15.252.681/0001-52,49.9,CANCELADA,1,0,0,MG,Alfenas,2020-12-08 17:29:54,2020-12-22 23:59:59,2021-11-22 00:03:04,0.0
+266,A Favorita Imóveis Bragança,samuelortiz.bp@gmail.com,23.979.132/0001-02,79.9,CANCELADA,1,1,0,SP,Bragança Paulista,2020-12-03 14:34:53,2021-06-07 14:55:04,2021-11-22 00:03:04,0.0
+267,SELLETO RH,mirian.lima@selletorh.com.br,22.255.101/0001-46,0.0,GRATUITO,0,2,0,,,,2020-12-15 15:31:07,,0.0
+268,ESCOLA WALDORF TURMALINA,diego.coppi@escolaturmalina.org.br,74.062.043/0001-38,0.0,GRATUITO,0,1,0,PR,Curitiba,,2020-12-14 10:20:52,,0.0
+269,NOGUEIRA IMOVEIS EIRELI,locacao@imobiliarianogueira.com.br,84.743.608/0001-04,79.9,CANCELADA,1,7,1,RO,Ji-Paraná,,2020-12-21 23:59:59,2021-11-22 00:03:04,0.0
+270,Pro security,william.teixeira.gomes.14@gmail.com,16.626.344/0001-14,0.0,GRATUITO,0,0,0,,,,2021-11-30 01:45:13,,0.0
+271,pro Security,reinaldoaguiar@hotmail.com,16.626.344/0001-40,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-12-08 22:30:40,,0.0
+272,Lotus Negócios Imobiliários,bernard@lotusonline.com.br,03.315.894/0001-05,79.9,ATIVA,0,353,1,PA,Belém,2021-04-26 19:32:21,2020-12-08 17:50:50,,0.0
+273,BALESTRIN IMÓVEIS LTDA,imobiliaria@balestrinimoveis.com.br,82.160.235/0001-05,0.0,GRATUITO,0,0,0,,,,2020-12-08 15:04:45,,0.0
+274,Lemos Distribuidora,delemosdistribuicao@gmail.com,22.387.985/0001-92,0.0,GRATUITO,0,1,0,PR,Curitiba,,2020-12-04 23:59:59,,0.0
+275,CECI CONSULTORIA IMOBILIARIA,maelias@uol.com.br,10.258.583/0001-09,0.0,GRATUITO,0,1,1,SP,São Paulo,,2020-12-02 14:29:09,,0.0
+276,Jonas Fast4Sign Enterprise ,jonas.a7x@hotmail.com,84.532.505/0001-97,217.5,CANCELADA,1,120,2,MS,Batayporã,2020-08-03 14:34:32,2021-04-23 23:59:59,2022-03-16 00:03:22,0.0
+277,Jonas Fast4Sign Enterprise ,jonas.a7x@hotmail.com,84.532.505/0001-97,0.0,CANCELADA,1,120,2,MA,Araioses,2021-11-22 09:25:34,2022-02-16 10:28:26,2022-03-16 00:03:22,0.0
+278,INODEV DESENVOLVIMENTO DE SISTEMAS,rh@devolus.com,18.873.896/0001-89,49.9,INATIVA_PAG,0,2,0,CE,Fortaleza,,2020-11-25 08:28:36,2021-03-12 13:07:00,0.0
+279,Metropolis Brokers Negócios Imobiliários LTDA,fernando@metropolisbrokers.com.br,23.074.261/0001-51,159.9,ATIVA,0,1467,12,SP,São Caetano do Sul,2020-11-09 17:59:37,2021-06-15 17:40:23,,0.0
+280,T. A. Araújo Shopping dos Fogos ME,shoppingdosfogos@hotmail.com,23.108.708/0001-66,0.0,GRATUITO,0,24,0,ES,Vila Velha,,2020-11-19 15:27:13,,0.0
+281,COMPUTER IT TRADE DO BRASIL EIRELI ME,hernando@cobrainformatica.com,10.388.926/0001-50,0.0,GRATUITO,0,4,0,,,,2020-11-16 12:14:12,,0.0
+282,Leonardo Porfírio da Mota,mota@motaseg.com,105.546.567-79,124.9,INATIVA_PAG,0,0,0,RJ,Rio de Janeiro,2020-10-30 17:31:59,2020-11-11 23:59:59,2021-01-25 14:37:50,0.0
+283,Ricardo jose Moredo,adm@majore.com.br,152.940.558-05,59.9,ATIVA,0,69,3,SP,São Paulo,2020-10-29 16:28:05,2021-07-28 08:56:17,,0.0
+284,Lavras Imóveis ,karolbragalavrasimoveis@yahoo.com,20.496.895/0001-04,0.0,GRATUITO,0,0,0,,,,2020-11-11 09:35:51,,0.0
+285,Prosecurity,emprecisei@gmail.com,13.823.634/0001-96,0.0,GRATUITO,0,0,0,,,,2020-11-04 23:16:11,,0.0
+286,RAQUEL ROSSATO SOCIEDADE INDIVIDUAL DE ADVOCACIA,raquelrossato.adv@gmail.com,35.592.326/0001-30,49.9,CANCELADA,0,16,0,PR,Marialva,2020-10-21 16:51:54,2020-11-04 23:59:59,2021-11-22 00:03:04,0.0
+287,HERCULES CORRETORA DE IMOVEIS LTDA,adm@herculescorretora.com.br,08.883.306/0001-45,124.9,ATIVA,0,408,6,MT,Nova Mutum,2021-02-25 17:18:06,,,0.0
+288,teste tiago,tiagojp_@hotmail.com,591.705.056-24,0.0,GRATUITO,1,1,0,SP,Ribeirão Preto,2020-10-15 18:41:01,2020-04-07 23:59:59,,0.0
+289,Portal Administradora de Condomínios e Bens Imóveis Ltda,portal@portalcondominios.adm.br,09.290.013/0001-17,0.0,GRATUITO,0,0,0,,,,2020-10-23 09:13:06,,0.0
+290,Luiz Lameirão-Mei,homeimoveis@gmail.com,25.070.968/0001-15,59.9,CANCELADA,0,16,0,SP,Guarulhos,,,2021-08-04 09:59:58,0.0
+291,GR CORRETORA DE IMOVEIS LTDA,orlando@gremp.com.br,02.690.796/0001-87,0.0,GRATUITO,0,0,0,,,,2020-10-22 10:04:29,,0.0
+292,JACQUELINE IMOVEIS,jacqueline@jacquelineimoveismg.com.br,26.360.459/0001-90,79.9,ATIVA,0,181,3,MG,Conselheiro Lafaiete,2021-02-26 11:51:23,,,0.0
+293,Caio Magnabosco ,bruno.souza@aidpp.org.br,40.246.044/0001-10,188.0,ATIVA,0,818,1,SP,Sao Paulo,2021-08-04 17:36:29,2020-09-11 12:28:02,,0.0
+294,Grazziotin Negócios Imobiliários Ltda,grazziotin@imobiliariagrazziotin.com.br,92.514.801/0001-93,124.9,INATIVA_PAG,0,0,0,RS,Caxias do Sul,,2020-10-19 23:59:59,2021-02-18 11:46:03,0.0
+295,Master Netimoveis,fernanda@masterimoveis.com.br,17.709.692/0001-44,0.0,GRATUITO,0,0,0,,,,2020-10-19 15:29:13,,0.0
+296,MATRIN,eduardo@matrin.com.br,05.241.748/0001-08,0.0,GRATUITO,0,0,0,,,,2021-03-27 20:15:43,,0.0
+297,TALLON E SANTANA ASSISTENCIA MEDICA DOMICILIAR LTDA,eduardoftj@hotmail.com,38.948.544/0001-52,0.0,GRATUITO,0,9,1,MG,Uberlândia,,2020-10-14 13:33:48,,0.0
+298,magazineluiza,gestor393@magazineluiza.com.br,47.960.950/0481-67,0.0,GRATUITO,0,0,0,,,,2020-10-12 12:05:23,,0.0
+299,MEDB GESTAO E CONTABILIDADE LTDA,devmedb@gmail.com,25.113.801/0001-94,0.0,GRATUITO,0,0,0,,,,2020-10-08 17:03:54,,0.0
+300,EMPREGAR JÁ ESTÁGIOS,suporte@empregarjamail.com.br,22.369.844/0001-47,0.0,GRATUITO,0,2,0,,,,2020-10-08 13:01:16,,0.0
+301,Nsk3 Negócios Imobiliários Ltda ,adriana@nsk3.com.br,20.093.339/0001-97,0.0,GRATUITO,0,1,0,,,,2020-10-06 17:50:26,,0.0
+302,Juliano Marcus Covre dias Toledo,julianomarcus@gmail.com,21.140.805/0001-00,0.0,GRATUITO,0,1,0,,,,2020-09-30 08:49:25,,0.0
+303,Editora Leader São Paulo Comércio Livros,lilianaaraujo@editoraleader.com.br,22.693.136/0001-67,159.9,INATIVA_PAG,0,3,1,SP,São Paulo,2020-09-24 20:19:05,2020-10-13 23:59:59,2020-09-30 15:44:25,0.0
+304,BC Vistorias Imobiliárias,contato@bcvistorias.com.br,37.193.874/0001-12,59.9,ATIVA,0,73,2,SC,Balneário Camboriú,2020-10-23 09:11:36,2022-03-04 11:20:40,,0.0
+305,CANADA - IMOVEIS E ADMINISTRACAO S/S LTDA,adm10@canadaimoveis.com.br,51.240.521/0001-57,159.9,ATIVA,0,565,3,SP,Osasco,,2021-08-30 17:24:59,,0.0
+306,EVOLUIRTURISMO,contato@evoluirturismo.com.br,08.968.464/0001-06,0.0,GRATUITO,0,8,0,,,,2020-09-16 10:25:03,,0.0
+307,Lopes Osasco,thais@lopesosasco.com.br,30.902.105/0001-05,0.0,GRATUITO,0,2,0,SP,Osasco,,2020-09-15 16:55:51,,0.0
+308,M.A. MORI IMOVEIS LTDA,atendimentoadm@mori-imoveis.com,18.922.746/0001-18,59.9,CANCELADA,0,30,0,SP,São Paulo,,,2022-03-24 15:10:30,0.0
+309,Resultado Virtual,contato@resultadovirtual.com.br,32.480.687/0001-04,0.0,GRATUITO,0,0,0,MG,Visconde do Rio Branco,,2020-09-14 16:11:42,,0.0
+310,DXP SOLUÇÕES EM LIMPEZA LTDA,dxplimpeza@hotmail.com,27.494.348/0001-39,0.0,GRATUITO,0,0,0,,,,2020-09-14 13:53:25,,0.0
+311,Lila Imóveis Ltda,lilaimoveis@yahoo.com.br,37.366.365/0001-44,0.0,GRATUITO,0,8,0,SP,Jundiaí,,2020-10-08 20:54:30,,0.0
+312,ASB Assessoria Empresarial Ltda ME,bruno.youssif@resultante.com.br,15.190.980/0001-00,0.0,GRATUITO,0,1,0,,,,2020-09-11 13:10:50,,0.0
+313,Maximize,hungria@maximizenegocios.com.br,35.913.673/0001-17,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-09-11 01:30:54,,0.0
+314,MB IMOVEIS NEGOCIOS IMOBILIARIOS LTDA,mbimoveisadm@hotmail.com,08.381.391/0001-43,49.9,INATIVA_PAG,0,0,0,SP,São Paulo,2020-09-24 15:06:49,2020-09-10 23:59:59,2020-10-07 17:46:47,0.0
+315,Município de Santo Expedito do Sul,pmsantoexpedito@gmail.com,90.484.296/0001-56,0.0,GRATUITO,0,0,0,,,,2020-09-09 12:58:36,,0.0
+316,Brasil Tecnologia,adm@brasiltecnologia.tech,11.741.258/0001-65,59.9,ATIVA,0,36,6,,,2020-08-24 16:11:56,2022-03-03 10:29:41,,0.0
+317,PAULO AFONSO BARGIELA EIRELLI,contato@pauloafonsoimoveis.com.br,13.419.881/0001-21,0.0,GRATUITO,0,0,0,SP,Piracicaba,,2020-09-04 20:26:08,,0.0
+318,Jefferson Scheleger Ribeiro,corretorjeffersonribeiro@gmail.com,337.663.028-33,49.9,INATIVA_PAG,0,1,0,SP,São Paulo,2020-08-21 10:57:00,2020-04-03 23:59:59,2020-09-29 09:56:44,0.0
+319,Beby motors ,clebersonluis149@gmail.com,37.173.802/0001-03,0.0,GRATUITO,0,0,0,,,,2020-09-03 16:57:50,,0.0
+320,Rizk & Almeida Consultoria Imobiliária e Administração de Bens Ltda.,alessandra@rizkimoveis.com.br,34.678.145/0001-68,79.9,ATIVA,0,450,1,SP,São Paulo,2020-08-20 13:03:37,,,0.0
+321,VN Negócios Imobiliários LTDA,valeria@vnimoveis.net.br,35.934.839/0001-81,79.9,ATIVA,0,184,2,SP,São Paulo,2020-08-27 10:46:19,2021-07-22 14:54:40,,0.0
+322,ATUAL IMOVEIS S/S LTDA,analise@atualimoveissp.com.br,52.803.921/0001-96,79.9,CANCELADA,0,42,0,SP,São Paulo,,2021-08-31 14:39:50,2022-04-07 12:04:58,0.0
+323,Vista Bela Administração de Imóveis Ltda,contato@vistabelaimoveis.com.br,21.090.180/0001-10,59.9,INATIVA_PAG,0,26,0,SP,TaubatÃƒÂ©,2020-08-24 12:08:28,2020-09-02 23:59:59,2020-09-29 09:57:31,0.0
+324,OITAVO ANDAR NEGÓCIOS IMOBILIÁRIOS,adm@oitavoandarabc.com.br,33.324.561/0001-03,0.0,GRATUITO,0,1,0,,,,2020-09-02 11:49:52,,0.0
+325,Norte Sul Gestora e Corretora LTDA,atendimento@nortesulimoveis.com.br,10.866.613/0001-60,282.0,ATIVA,0,1385,6,MG,Belo Horizonte,2020-08-31 11:03:22,2020-08-26 23:59:59,,0.0
+326,Blue Imoveis,contato@blueimoveis.co,35.826.125/0001-50,0.0,GRATUITO,0,2,0,SC,Herval D'Oeste,,2020-08-21 23:59:59,,0.0
+327,Reserva imoveis,aluguel@reservaimoveismg.com,13.139.302/0001-97,0.0,GRATUITO,0,1,0,,,,2020-08-21 11:37:30,,0.0
+328,GMN ANÁLISES LABORATORIAIS LTDA.,gerencia@gmnnefrolab.com.br,01.010.074/0001-71,0.0,GRATUITO,0,1,0,,,,2020-08-20 14:36:06,,0.0
+329,CLEIDI IMOVEIS LTDA,administrativo@cleidiimoveis.com.br,11.664.726/0001-45,49.9,ATIVA,0,142,0,SC,Joinville,2020-09-21 10:57:32,2021-08-27 14:23:26,,0.0
+330,PRO SECURITY SERVIÇOS ESPECIALIZADOSLTDA,renata.paola124@gmail.com,96.231.568/0001-,0.0,GRATUITO,0,0,0,,,,2020-08-15 22:32:09,,0.0
+331,Subclap,info@subclap.com,37.752.728/0001-80,0.0,GRATUITO,0,1,0,,,,2020-08-14 15:53:49,,0.0
+332,Prosegurity ,alexssandro.sousa1@gmail.com,032.244.533-70,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-08-11 13:42:39,,0.0
+333,Proclin,crisleidedl2018@gmail.com,445.649.278-33,0.0,GRATUITO,0,0,0,SP,São Paulo,,2021-12-02 14:40:15,,0.0
+334,MATA MACHADO IMOVEIS,matamachado@matamachado.com.br,21.930.517/0001-50,159.9,ATIVA,0,410,0,MG,Nova Lima,,2021-07-26 16:34:54,,0.0
+335,Aluminitech Comercio e Serviços LTDA,aluminitech@aluminitech.com.br,12.164.093/0001-79,0.0,GRATUITO,0,1,0,CE,Fortaleza,,2020-08-07 13:30:47,,0.0
+336,Imobiliária Rospide Ltda,gerencia@rospide.com.br,92.490.804/0001-34,0.0,GRATUITO,0,0,0,RS,Viamão,,2020-08-06 14:04:21,,0.0
+337,Prosecurity,rborgesdesouza36@gmail.com,037.143.705-95,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-08-06 08:02:25,,0.0
+338,NELSON BENEDITO CONSULTORIA IMOBILIÁRIA LTDA,aluguel.novacap@gmail.com,01.755.916/0001-14,79.9,ATIVA,0,683,0,MS,Campo Grande,2020-07-23 17:34:58,2021-07-22 18:02:13,,0.0
+339,VISTO CONSULTORIA E ASSESSORIA EMPRESARIAL LTDA,contato@vistoriaprime.com.br,12.152.713/0001-50,159.9,ATIVA,0,791,0,SC,Balneário Camboriú,2020-10-05 16:38:21,,,0.0
+340,Roberto Melo,contato@conectaimoveisrecife.com,33.582.642/0001-0,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-07-24 23:59:59,,0.0
+341,Bianca Yukari Uehara,uehara.bianca1@gmail.com,436.882.078-90,0.0,GRATUITO,0,1,0,SP,São Paulo,,2020-07-29 14:17:45,,0.0
+342,pro security,sistemas.carinacosta@prosecurity.com.br,56.566.292/0001-89,0.0,GRATUITO,0,1,0,SP,São Paulo,,2020-07-28 14:48:00,,0.0
+343,Fontes Alphaville Imóveis ,contatofontesimoveis@gmail.com,31.913.771/0001-01,0.0,TESTE,0,50,0,SP,Barueri,,2021-08-11 15:57:25,,0.0
+344,OportunY Imóveis,contato@oportunyimoveis.com,,0.0,GRATUITO,0,0,0,SP,Guarulhos,,2020-07-21 23:59:59,,0.0
+345,Grupo Pro Security,alan.barbosa@prosecurity.com.br,58.566.292/0001-89,0.0,GRATUITO,0,0,0,,,,2020-07-21 12:41:23,,0.0
+346,Leticia Sauer,lelesauer.ls@gmail.com,432.003.928-01,0.0,GRATUITO_INATIVO,0,1,0,SP,Barueri,,2021-09-07 12:18:25,,0.0
+347,Barbieri Construtora e Incorporadora Ltda,barbara@barbiericonstrutora.com.br,04.603.552/0001-45,0.0,GRATUITO,0,0,0,,,,2021-06-11 09:33:21,,0.0
+348,Pacheco Imoveis LTDA,gil@pacheco.com.br,62.966.783/0001-10,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-07-07 23:59:59,,0.0
+349, Iesp Basis Informatica LTDA,renato@basissitemas.com.br,58.395.039/0001-35,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-07-07 23:59:59,,0.0
+350,Thais Amaral Campos Basso,thaisacbasso@gmail.com,435.637.338-30,,,0,0,0,,,,,,0.0
+351,Camila Meirelles Cassiolato,camila.cassiolato@gmail.com,996.276.391-68,0.0,GRATUITO,0,11,0,TO,Palmeiras do Tocantins,,2020-07-06 23:59:59,,0.0
+352,Teekay Petrojarl I Serviços de Petróleo LTDA,pj1.velferd@alterainfra.com,22.255.021/0001-90,0.0,GRATUITO,0,1,0,,,,2020-07-05 18:27:12,,0.0
+353,Eduardo Zucco,zuccovistorias@hotmail.com,052.868.199-07,79.9,INATIVA_PAG,0,28,0,SC,Brusque,2020-07-22 17:56:13,2020-07-02 23:59:59,2020-11-09 10:53:26,0.0
+354,UNINTER EDUCACIONAL SA,luciana.so@uninter.com,02.261.854/0001-57,0.0,GRATUITO,0,0,1,PR,Curitiba,,2020-07-02 10:08:26,,0.0
+355,Nova Aliança Imóveis,locacao@novaaliancaimoveis.com.br,30.488.775/0001-19,79.9,CANCELADA,1,292,1,RJ,Rio de Janeiro,2020-07-21 17:48:45,2020-07-08 23:59:59,2021-11-22 00:03:04,0.0
+356,PINHEIRO - EMPREENDIMENTOS IMOBILIARIOS LTDA,terezinhagrupopinheiro@gmail.com,15.726.998/0001-83,0.0,GRATUITO,0,1,3,SP,Presidente Prudente,2020-11-06 14:48:52,2020-06-26 23:59:59,,0.0
+357,MaisCliniclik Tecnologia LTDA,rafael@cliniclick.com.br,32.883.668/0001-10,0.0,GRATUITO,0,1,0,SP,São Paulo,,2020-06-24 15:27:45,,0.0
+358,OPTMY ASSESSORIA CONSULTORIA E TREINAMENTOS LTDA,karinne@optmy.com.br,33.822.803/0001-80,0.0,GRATUITO,0,2,1,CE,Fortaleza,,2020-06-22 22:21:03,,0.0
+359,Reginaldo Rodrigues da Costa,recostacorretor@gmail.com,012.576.838-96,0.0,GRATUITO,0,1,0,SP,São Paulo,,2020-06-22 14:06:48,,0.0
+360,Jacomessi Imóveis,contato@jacomassiimoveis.com.br,35.575.191/0001-,0.0,GRATUITO,0,1,0,SP,São Paulo,,2020-06-22 13:49:50,,0.0
+361,Pedro Mauricio,pedromainka@gmail.com,,0.0,GRATUITO,0,0,0,PR,Abatiá,,2020-06-18 23:59:59,,0.0
+362,HABITECHNE ENGENHARIA E CONSTRUÇÃO LTDA,regis@grupohge.com.br,07.749.508/0001-36,0.0,GRATUITO,0,0,2,SP,Boituva,,2020-05-26 23:59:59,,0.0
+363,MEI Instalação Industrial Ltda.,leonardo.hallak@i3m.com.br,05.256.543/0002-41,0.0,GRATUITO,0,0,0,,,,2021-01-25 11:39:19,,0.0
+364,Pro Security Seguranca Patrimonial Ltda,rh.marinessilva@prosecurity.com.br,96.231.568/0001-92,1470.0,ATIVA,0,12580,15,SP,São Paulo,,,,0.0
+365,Dolores Imoveis Administracao de Bens LTDA,franklin@doloresimoveis.com.br,20.104.242/0001-32,0.0,GRATUITO,0,1,1,SP,Mogi das Cruzes,,2020-06-15 09:43:34,,0.0
+366,GMG ADMINISTRADORA DE IMÓVEIS LTDA,aluguel@gmgimoveis.com.br,27.997.100/0001-90,59.9,CANCELADA,1,63,0,MG,Belo Horizonte,2020-06-01 00:00:00,2021-08-30 13:23:32,2021-12-22 00:02:54,0.0
+367,Kerber Nunes Corretora de Seguros e Imóveis Ltda,sergio@kaieneimoveis.com.br,03.006.113/0001-92,59.9,ATIVA,0,172,0,RS,Porto Alegre,2020-05-26 00:00:00,,,0.0
+368,TIAGO A S MARQUES SOLUCOES IMOBILIARIAS,tasmsolucoesimobiliarias@gmail.com,29.691.251/0001-41,59.9,ATIVA,0,107,0,PE,Olinda,2020-06-01 00:00:00,2020-08-05 23:59:59,,0.0
+369,Vivências Psicólogia,,32.310.750/0001-56,,,0,0,0,,,,,,0.0
+370,Christiane,solucoes.recuperacaojudicial@gmail.com,396.697.928-43,0.0,GRATUITO,0,3,0,,,,2020-09-29 15:24:01,,0.0
+371,Janaína Brilhante,morar.jampa@gmail.com,513.992.102-20,49.9,INATIVA_PAG,0,0,0,PB,João Pessoa,2020-07-17 10:32:40,2020-06-02 23:59:59,2020-07-17 10:23:56,0.0
+372,Borges & Camelo Consultoria Imobiliária LTDA,amanda@afigueiredoadv.com.br,10.861.781/0001-62,159.9,ATIVA,0,698,1,MG,Belo Horizonte,2020-05-14 00:00:00,,,0.0
+373,IMOVELMAR IMOBILIARIA LTDA,elmarcor@hotmail.com,10.519.571/0001-90,0.0,GRATUITO,0,0,0,PR,Abatiá,,2020-05-28 11:07:33,,0.0
+374,CLAUDIA HAIDAR NEGOCIOS IMOBILIARIOS EIRELI,claudiahaidarbroker@gmail.com,24.067.818/0001-90,49.9,ATIVA,0,67,0,SP,Vinhedo,2020-05-13 00:00:00,2021-07-19 15:15:37,,0.0
+375,Renove engenharia e recuperação de estrutura Ltda ,marcos.melo@grupohge.com.br,17.058.388/0001-84,0.0,GRATUITO,0,2,1,SP,Itu,,2020-05-27 14:11:48,,0.0
+376,Personal  Empreendimentos Imobiliarios LTDA,financeiro@habiflex.com.br,10.371.534/0001-88,,,0,4,1,,,,,,0.0
+377,Guestier Santa Helena Empreendimento ,alexsander@guestier.com.br,34.382.007/0001-37,124.9,ATIVA,0,334,5,SP,São Paulo,2020-05-08 00:00:00,,,0.0
+378,VITORIA CONSULTORIA DE IMOVEIS,giselia@imobiliariavitoria.com.br,03.677.349/0001-50,216.0,ATIVA,0,695,8,SP,São Bernardo do Campo,2020-05-11 00:00:00,2021-08-05 09:02:48,,0.0
+379,Ideal Negócios Imobiliários,otavio@corretoraideal.com.br,09.497.911/0001-40,0.0,GRATUITO,0,0,0,,,,2020-05-22 14:56:46,,0.0
+380,Habiflex,William@habiflex.com.br,,,,0,0,3,,,,,,0.0
+381,ROSA IMOVEIS LTDA,luanna@rosaimoveis.com.br,00.172.255/0001-31,0.0,GRATUITO,0,3,0,MT,Cuiabá,,2020-05-06 16:24:43,,0.0
+382,Murakami Ulisses Imóveis,diretoria@grupomurakami.com,27.306.512/0002-18,59.9,CANCELADA,1,103,0,PR,Maringá,2020-04-27 00:00:00,,2021-12-14 00:02:58,0.0
+383,Alex Emerick,alexemerickzene@gmail.com,,0.0,GRATUITO,0,0,0,MG,Belo Horizonte,,2020-04-29 18:13:44,,0.0
+384,A PREDIAL PORTE EPP,claudinea.silva@apredial.com.br,07.832.066/0001-97,0.0,GRATUITO,0,0,0,CE,Fortaleza,,2020-04-30 23:59:59,,0.0
+385,Isabelle Oliveira,isabelle.oliveira@devolus.com,,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-04-29 23:59:59,,0.0
+386,Check List ,checklistimob@gmail.com,,0.0,GRATUITO,0,0,0,TO,Palmas,,2020-05-04 14:17:17,,0.0
+387,Sheila Parra,sheila.parra@parraimobiliaria.com.br,,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-04-28 23:59:59,,0.0
+388,Simone Flor,simonebuatim@gmail.com,,0.0,GRATUITO,0,0,0,SC,Florianópolis,,2020-04-27 23:59:59,,0.0
+389,Helder Ferreira,tecnicoheldernascimento@gmail.com,12.439.595/0001-65,39.9,INATIVA_PAG,0,0,0,BA,Salvador,2020-11-13 14:15:40,2020-04-27 23:59:59,2021-02-18 11:47:54,0.0
+390,Danilo Melo,danilomelo.dr@gmail.com,,0.0,GRATUITO,0,0,0,SP,São Paulo,,2021-05-18 12:04:47,,0.0
+391,Casa Pronta,Vistoriacasapronta@gmail.com,96.119.561/0001-83,39.9,INATIVA_PAG,0,5,7,BA,Salvador,2020-11-13 17:02:41,2020-11-29 09:31:39,2021-01-19 16:37:46,0.0
+392,Claudinei - Imobiliária,claudinei@imobiliariasifra.com.br,22.292.103/0001-05,0.0,GRATUITO,0,0,0,PR,Toledo,,2020-04-22 23:59:59,,0.0
+393,IMOBILIARIA KRAJUA,imobiliariakrajua@gmail.com,26.705.027/0001-73,59.9,ATIVA,1,176,0,CE,Crato,2020-04-06 00:00:00,,,0.0
+394,Alan Pereira,alanpereiramkt@hotmail.com,,49.9,INATIVA_PAG,0,0,0,SE,Barra dos Coqueiros,,2020-04-16 23:59:59,2020-08-28 14:22:28,0.0
+395,A.Agnello Imoveis Ltda.,vinicius@agnelloimoveis.com.br,05.348.746/0001-04,0.0,GRATUITO,0,1,0,SP,Franca,,2020-04-17 09:58:42,,0.0
+396,Eder Luciano da Silva Wisnheski Creci,ederimoveisijui@creci.org.br,951.027.870-04,0.0,GRATUITO,0,4,1,RS,Ijuí,,2020-04-17 14:05:45,,0.0
+397,Innovacom Imoveis,danielbuzaid@hotmail.com,97.533.814/0001-23,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-04-14 23:59:59,,0.0
+398,Incorpore,andre@incorpore.io,17.598.712/0001-57,0.0,GRATUITO,0,1,0,,,,2020-04-14 15:21:29,,0.0
+399,A Camargo Imóveis LTDA ME,joaorodrigues@acamargoimoveis.com.br,25.331.625/0001-67,0.0,GRATUITO,0,0,1,SP,Mauá,,2020-04-09 11:46:09,,0.0
+400,LKP SOLUCOES IMOBILIARIAS LTDA,karenpessoa@icloud.com,31.463.741/0001-32,49.9,ATIVA,0,58,0,SP,Campinas,2020-03-24 00:00:00,2020-09-07 23:59:59,,0.0
+401,Digitalk,estanis@digitalk.com.br,30.642.188/0001-32,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-04-03 23:59:59,,0.0
+402,Leandro- Vida Imóveis,leandro.vidaimoveis@gmail.com,05.121.911/0001-90,180.0,ATIVA,0,2474,3,SP,Osasco,2020-03-19 00:00:00,2021-08-13 16:33:34,,0.0
+403,Josue Neto ,josue@imobiliariajaragua.com.br,30.868.333/0001-06,0.0,GRATUITO,0,1,0,SC,Florianópolis,,2020-04-01 17:40:33,,0.0
+404,Imobiliária São Paulo,neto@imobiliariasp.com.br,02.415.448/0001-00,0.0,GRATUITO,0,0,0,SP,Pindamonhangaba,,2020-04-01 16:41:17,,0.0
+405,TJ Imóveis,contato@tjimoveis.com,,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-04-01 23:59:59,,0.0
+406,MARIO DAL MASO ADM. E ENGª LTDA - EPP,contatocomercial@mariodalmaso.com.br,09.250.099/0001-54,0.0,GRATUITO,0,1,0,,,,2020-03-30 15:36:42,,0.0
+407,Eder Luis ,ederluis123@gmail.com,,0.0,GRATUITO,0,0,0,,,,2020-03-25 11:50:19,,0.0
+408,Magda Silva ,contato.marriet@gmail.com,,0.0,GRATUITO,0,0,0,,,,2020-03-25 20:53:37,,0.0
+409,Luiz Roberto de Araujo Junior,luiz@araujojunior.com.br,,0.0,GRATUITO,0,0,0,,,,2020-03-24 13:55:40,,0.0
+410,Laura Maria Jorge Mendes,webimovel@outlook.com.br,,0.0,GRATUITO,0,0,0,,,,2020-04-10 13:58:21,,0.0
+411,Helder Henrique ,helderhmaju@gmail.com,,0.0,GRATUITO,0,0,0,,,,2020-03-23 23:59:59,,0.0
+412,Kaka Imóveis,admsaomateus@kakaimoveis.com.br,52.945.979/0001-74,79.9,ATIVA,0,249,1,SP,São Paulo,2020-04-30 00:00:00,2020-03-23 23:59:59,,0.0
+413,Teste Edinei 1,edinei@grupoadn.com.br,00.000.000/0000-0,0.0,GRATUITO,0,0,0,,,,2020-03-20 16:09:39,,0.0
+414,J Nicolau Consultorias Imobiliária Ltda.,claudia@jnicolau.com.br,09.191.817/0001-69,0.0,GRATUITO,0,1,0,,,,2020-03-20 16:16:00,,0.0
+415,Imobiliária Porta Nova,tania.vogel@imobiliariaportanova.com.br,51.436.749/0001-17,0.0,GRATUITO,0,59,3,SP,Embu das Artes,2020-04-02 00:00:00,2020-03-30 23:59:59,,0.0
+416,JC Basagani Participação de Doc. e Serv. Especializados,jcbasagni@creci.org.br,14.452.001/0001-81,49.9,CANCELADA,1,49,0,SP,São Paulo,2020-12-21 13:57:28,,2022-03-09 00:03:20,0.0
+417,Grupo Alianz,grupoalianzbr@gmail.com,25.116.804/0001-81,0.0,GRATUITO,0,1,0,,,,2020-03-27 14:00:59,,0.0
+418,Daniele Cristina de Araújo Vital,danielecristinaa@gmail.com,,0.0,GRATUITO,0,0,0,,,,2020-03-19 23:59:59,,0.0
+419,Carvalho Neves Imóveis LTDA,caio@carvalhoneves.com.br,07.739.539/0001-06,49.9,ATIVA,0,126,0,SP,Jundiaí,2020-03-10 00:00:00,,,0.0
+420,Ivo Barry de Freitas Ward ,ivo.circuloimoveis@gmail.com,91.819.050/0001-50,0.0,GRATUITO,0,1,0,,,,2020-09-30 08:09:20,,0.0
+421,MAIS IMOVEIS - ASSESSORIA IMOBILIARIA - EIRELI,cleocir@imobiliariamais.com.br,30.287.712/0001-02,59.9,INATIVA_PAG,0,27,1,SP,São Paulo,2020-03-11 00:00:00,2021-06-28 15:55:13,2020-08-17 10:39:10,0.0
+422,Robert Vaz,robertwagnervaz@gmail.com,305.179.068-05,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-06-14 23:59:59,,0.0
+423,AFONSO R R JUNIOR,ajunior61@gmail.com,271.330.791-00,0.0,GRATUITO,0,0,0,,,,2020-03-18 15:54:30,,0.0
+424,IMOTETO IMOBILIARIA E ADMINISTRACAO LTDA - EPP,paulo@imoteto.com.br,51.353.860/0001-40,0.0,GRATUITO,0,1,0,,,,2020-03-19 08:14:41,,0.0
+425,AE Patrimonio Consultores Imobiliários LDTA,alexandre@aepatrimonio.com.br,09.445.548/0001-10,940.0,ATIVA,0,6256,33,SP,Sorocaba,2020-03-10 00:00:00,,,0.0
+426,Pro Imóveis Imobiliária,juridico@imoveispro.com.br,51.840.387/0001-25,0.0,GRATUITO,0,2,0,,,,2020-03-27 12:50:41,,0.0
+427,The One Imóveis,daniele@theoneimoveis.com.br,22.410.981/0001-88,79.9,ATIVA,0,419,3,SC,Joinville,2020-03-20 00:00:00,2020-04-17 23:59:59,,0.0
+428,Valentina Caran Imóveis LTDA,gerencia@valentinacaran.com.br,53.081.931/0001-28,0.0,GRATUITO,0,1,0,,,,2020-03-27 12:11:30,,0.0
+429,IMOBILIARIA NOVA KENNEDY LTDA,ricardo.barbosa@novakennedy.com.br,10.412.277/0001-85,0.0,GRATUITO,0,0,0,SP,Praia Grande,,2020-03-17 23:59:59,,0.0
+430,Pedro Roberto Ferreira Amorim,roberto_zamorano@hotmail.com,14.746.459/0001-43,69.9,INATIVA_PAG,0,0,0,,,,2020-03-18 14:37:55,2020-08-28 15:58:50,0.0
+431,QUICKFAST SOFTWARE HOUSE LTDA,marcos@quickfast.com,07.427.146/0001-67,0.0,GRATUITO,0,6,0,,,,2020-07-15 22:59:37,,0.0
+432,MAAZER Imobiliária,atendimento@maaser.com.br,22.235.401/0001-63,0.0,GRATUITO,0,0,0,RJ,Rio de Janeiro,,2020-03-05 23:59:59,,0.0
+433,F.L. NETIMOVEIS LTDA - ME,locacao1@fl.com.br,07.173.716/0001-30,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-03-04 23:59:59,,0.0
+434,Ronaldo Augusto Justino,naldo.office@gmail.com,095.477.006-42,0.0,GRATUITO,0,0,0,MG,Contagem,,2020-03-08 23:59:59,,0.0
+435,Hirota Vistorias,hirotavistorias@gmail.com,32.077.558/0001-61,0.0,GRATUITO,0,1,0,SP,São Paulo,,2020-03-31 23:59:59,,0.0
+436,Helena Mendes Negócios Imobiliários Ltda,rodrigo@helenamendes.com.br,04.817.054/0001-03,79.9,ATIVA,0,335,3,SP,São Paulo,,2021-08-11 12:12:26,,0.0
+437,Golden Liberty Empreendimentos Imobiliários LTDA,locacao@centrospimobiliaria.com.br,10.761.533/0001-40,217.5,INATIVA_PAG,1,1441,3,SP,Bauru,2020-03-24 00:00:00,2021-07-20 11:01:14,2022-04-12 00:01:23,0.0
+438,Forte Acessoria Imobiliária Ltda,karine@forteprimeimoveis.com.br,06.152.160/0001-32,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-07-30 23:59:59,,0.0
+439,SKILL LAUDOS IMOBILIARIOS,skill@skillconsultoria.com.br,21.899.986/0001-53,69.9,INATIVA_PAG,0,3,4,SP,Paulínia,,2020-03-19 11:33:01,2020-08-28 16:15:01,0.0
+440,Duarte Imoveis,duarteimoveis@globo.com,57.051.542/0001-00,0.0,GRATUITO,0,1,0,SP,Guarujá,,2020-04-27 23:59:59,,0.0
+441,CONSTRUTORA & INCORPORADORA ADMINISTRADORA E EMPREENDIMENTOS IMOBILIARIOS CAJAMAR LTDA,cleuma.cavalcante@imobiliariacajamar.com.br,39.601.723/0001-81,79.9,ATIVA,0,209,1,SP,Cajamar,2020-04-29 00:00:00,,,0.0
+442,DOMO WORLD NEGOCIOS IMOBILIARIOS LTDA ,locacao@dworld.com.br,15.828.945/0001-73,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-02-28 23:59:59,,0.0
+443,D. A. Pineze,andreborges@creci.org.br,17.980.409/0001-14,0.0,GRATUITO,0,1,0,SP,Araçatuba,,2020-03-31 23:59:59,,0.0
+444,IMPERIO ASSESSORIA EMPRESARIAL EIRELI,luizrlima52@gmail.com,21.948.962/0001-47,69.9,INATIVA_PAG,0,0,0,,,,2020-02-27 18:50:44,2020-08-28 15:21:24,0.0
+445,Na Ponta da Chave,isabelnobre@napontadachave.com.br,32.250.936/0001-67,79.9,CANCELADA,1,246,3,SP,São Bernardo do Campo,2020-02-19 00:00:00,2022-02-17 19:11:14,2021-11-22 00:03:04,0.0
+446,CASSIA DANIELLE ALVES DOS PRAZERES QUEIROZ	,contartcassia@hotmail.com,26.724.848/0001-57,0.0,GRATUITO,0,0,1,SP,São Paulo,,2020-02-27 23:59:59,,0.0
+447,Central Imobiliária de Bauru,eduardo.candia@imobiliariacentral.com,47.639.414/0001-29,159.9,ATIVA,0,1284,4,SP,Bauru,2020-04-08 00:00:00,2020-04-22 23:59:59,,0.0
+448,CENTER IMOVEIS LTDA - ME,marcelo@centerimoveis.com.br,46.910.014/0001-43,49.9,ATIVA,0,6,1,SP,São Paulo,2020-04-23 00:00:00,2021-08-25 15:17:19,,0.0
+449,Fator 1 Administração de Imóveis,andre@catita.com.br,17.141.261/0001-24,0.0,GRATUITO,0,0,0,SP,São Paulo,,2020-04-16 23:59:59,,0.0
+450,FSVI Vistoria de Imóveis,vistoria@fsvi.com.br,30.597.201/0001-89,69.9,INATIVA_PAG,0,36,0,SP,São Paulo,2020-03-30 00:00:00,2020-04-30 23:59:59,2020-10-19 11:21:13,0.0
+451,ADEMIR ROBSON RODRIGUES NUNES 16718973823,gerantevistorias@gmail.com,34.798.534/0001-27,69.9,INATIVA_PAG,0,0,0,,,,2020-02-26 17:04:09,2020-08-28 14:21:41,0.0
+452,Acapulco Empreendimentos Imobiliários Americana Ltda.,ester@acapulcoimoveis.com.br,52.150.448/0001-95,0.0,GRATUITO,0,0,0,SP,Americana,,2020-02-26 23:59:59,,0.0
+453,Paes Imóveis LTDA,contato@paesimoveis.com,02.255.145/0001-69,90.0,ATIVA,0,396,9,SC,Florianópolis,2020-09-18 17:08:14,2020-10-07 23:59:59,,0.0
+454,frança programação ME,tfranca2@gmail.com,16.929.335/0001-29,0.0,GRATUITO,0,30,3,SP,Campinas,2020-09-18 17:08:14,,,0.0
+455,ADN23,contato@adn23.com.br,,0.0,GRATUITO,0,12,0,SP,São Paulo,,2020-02-17 23:59:59,,0.0
+456,Fz Imoveis LTDA ,fz@fzimoveis.com.br,07.340.995/0001-89,0.0,GRATUITO,0,2,1,CE,Fortaleza,,2020-04-30 23:59:59,,0.0
+457,Devolus Smart Solutions,contato@devolus.com,85.350.615/0001-09,59.9,INATIVA_PAG,0,48,0,CE,Fortaleza,2020-07-28 09:54:23,2020-01-31 23:59:59,2021-03-12 13:07:13,0.0
