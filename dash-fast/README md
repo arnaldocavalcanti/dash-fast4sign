@@ -1,0 +1,9 @@
+1 - Antes de tudo, vc precisa criar uma conta no google cloud
+2 - Criar um serviço no google cloud run
+3 - onde abaixo está como dashboard-devolus é o código privado do serviço. vc precisa apontar ele aqui
+4 - instalar o google cloud sdk
+5 - rodar os commandos abaixo:
+
+gcloud builds submit --tag gcr.io/dashboard-devolus/dash-devolus  --project=dashboard-devolus
+
+gcloud run deploy --image gcr.io/dashboard-devolus/dash-devolus --platform managed  --project=dashboard-devolus --allow-unauthenticated
